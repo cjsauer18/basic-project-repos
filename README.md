@@ -4,7 +4,6 @@ This repository is a portfolio of some programming projects completed during my 
 Program descriptions:
 
 1. Othello
-highlights:
   - recreated the game of Othello (also known as Reversi)
   - object oriented design
   - Use of Vectors
@@ -12,14 +11,12 @@ highlights:
  
   
  2. GrayScale
- highlights use of:
   - i/o parsing in data
-  - image manipulation/transformations (convolve)
-  - polymorphism 
-  - object oriented design
+  - Image manipulation/transformations (convolve)
+  - Polymorphism 
+  - Object oriented design
   
   
  3. MultiValueMap
- highlights use of:
-  - custom data structures
-  - object oriented design
+  - Custom data structures
+  - Object oriented design
