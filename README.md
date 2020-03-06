@@ -4,8 +4,8 @@ This repository is a portfolio of some programming projects completed during my 
 Program descriptions:
 
 1. Othello
-  - recreated the game of Othello (also known as Reversi)
-  - object oriented design
+  - Constructed the game of Othello 
+  - Object oriented design
   - Use of Vectors
   - Modular design
  
@@ -15,6 +15,7 @@ Program descriptions:
   - Image manipulation/transformations (convolve)
   - Polymorphism 
   - Object oriented design
+  - File manipulation, (in and out)
   
   
  3. MultiValueMap
