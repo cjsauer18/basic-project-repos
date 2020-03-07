@@ -15,9 +15,13 @@ Program descriptions:
   - Image manipulation/transformations (convolve)
   - Polymorphism 
   - Object oriented design
-  - File manipulation, (in and out)
+  - File manipulation, i/o
   
   
  3. MultiValueMap
-  - Custom data structures
+  - Custom data structure
   - Object oriented design
+  - Polymorphism
+  - Operator overloading
+ 
+
