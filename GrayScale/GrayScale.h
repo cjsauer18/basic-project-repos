@@ -11,7 +11,6 @@ struct Image{
 public: 
   vector<vector<long>> pixels_;
   string magic_number_;
-  string test_line;
   long height_ = 0;
   long width_ = 0;
   long max_val_ = 0;
