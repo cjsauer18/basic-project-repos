@@ -20,8 +20,8 @@ public:
 public:
   Image()=default;
   Image (string f_name);
-//opens file, extracts and sets parameters
   void write_image(string f_name) const;
+  vector<vector<long>>mask(string filename) const;
   Image sharpen() const;
   Image edge_detect() const;
   Image blur() const;
