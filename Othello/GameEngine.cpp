@@ -12,8 +12,9 @@ void Rules(){//rules
 }
 
 
-//swap function, takes player 1 and player 2 and switches their order for gameLoop.
-//pre: player variables must be supplied to be flipped
+//Swap function, takes player 1 and player 2 and switches their order for gameLoop.
+//Pre: player variables must be supplied to be flipped
+//Post: changes player for turn
 void Swap(char& p1, string& p1S, char& p2, string& p2S){//string identifiers for display heading
     string tempS; char temp;
     tempS = p1S;
@@ -23,7 +24,6 @@ void Swap(char& p1, string& p1S, char& p2, string& p2S){//string identifiers for
     p1 = p2;
     p2 = temp;
 }
-//post: changes player for turn
 int main() {
     int col = 0; int row;
     string p1S = "Player 1: Black";//player identifer
@@ -95,7 +95,7 @@ int main() {
                 play = 'n';//break while loop
                 break;//end program
             }else{
-                cout << "Error, Play again? (y/n): ";//reprompt
+                cout << "Error, Play again? (y/n): ";//re-prompt
             }
             }while(selection != 'y' && selection != 'n');
         }
