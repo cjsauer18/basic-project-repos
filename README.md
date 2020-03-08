@@ -1,7 +1,7 @@
 # basic-project-repos
 This repository is a portfolio of some programming projects completed during my time at Michigan State University and University of Michigan-Dearborn. All projects are programmed in C++.
 
-Program descriptions:
+Program descriptions and key principles:
 
 1. Othello
   - Constructed the game of Othello 
@@ -10,7 +10,7 @@ Program descriptions:
   - Modular design
   - Game engine
   
- 2. GrayScale
+ 2. GrayScale - (Manipulate PGM files)
   - i/o parsing in data, stringstreams
   - Image manipulation/transformations (convolve)
   - Polymorphism 
