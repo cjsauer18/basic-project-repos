@@ -8,6 +8,7 @@ Program descriptions:
   - Object oriented design
   - Use of Vectors
   - Modular design
+  - Game Engine
   
  2. GrayScale
   - i/o parsing in data, stringstreams
