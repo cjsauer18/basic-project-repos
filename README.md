@@ -1,4 +1,4 @@
-# basic-project-repos
+# uni-project-repos
 This repository is a portfolio of some programming projects completed during my time at Michigan State University and University of Michigan-Dearborn. All projects are programmed in C++.
 
 Program descriptions and key principles:
