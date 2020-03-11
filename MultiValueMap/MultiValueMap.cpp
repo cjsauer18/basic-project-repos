@@ -7,8 +7,9 @@
 using std::string; using std::vector; using std::initializer_list;
 using std::ostream; using std::cout; using std::cin; using std::endl;
 
-//This project creates a struct called Element. Element resembles a map, however instead of
-//one value corresponding to key, the key can have multiple values, in turn requires the use of a vector of strings.
+//This project consists of creating a custom data type (Element) that is encapsulated within a class (MVM).
+//Element resembles a map, however instead of one value corresponding to key,
+//the key can have multiple values, in turn requires the use of a vector of strings.
 //The class MVM contains a vector of elements. The class has various methods which pertain to inserting, checking, removing,
 //finding, and comparing values of elements with regard to it's keys and values.
 
