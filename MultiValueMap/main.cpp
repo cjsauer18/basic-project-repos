@@ -1,7 +1,7 @@
 #include <iostream>
 #include "MultiValueMap.h"
 using namespace std;
-
+//Project description located in class .cpp file. This main serves as a test/display of the class features. 
 
 int main(){
     Element a("key1", {"1","2","3"});
