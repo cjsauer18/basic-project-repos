@@ -25,5 +25,4 @@ public:
   Image edge_detect() const;
   Image blur() const;
   Image emboss() const;
-  Image extract(long) const;
 };
