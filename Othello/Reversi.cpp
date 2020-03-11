@@ -4,6 +4,9 @@
 #include <vector>
 using namespace std;
 
+//This project codes a game of Othello. Class 'Reversi' has methods that intiialize a board which is a 2D array
+//of type char.
+
 //Constructor initialized board upon call.
 //Default constructor
 //Post: returns initialized board of ' ' values (empty board)
