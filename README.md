@@ -6,7 +6,7 @@ Program descriptions and key principles:
 1. Othello
   - Constructed the game of Othello 
   - Object oriented design
-  - Use of Vectors
+  - Use of vectors, arrays, iterators. 
   - Modular design
   - Game engine
   
@@ -21,6 +21,7 @@ Program descriptions and key principles:
   - Custom data structure
   - Object oriented design
   - Polymorphism
+  - Pointers & iterators.
   - Operator overloading
   
   4. Patterns
