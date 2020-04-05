@@ -24,7 +24,14 @@ Program descriptions and key principles:
   - Pointers & iterators.
   - Operator overloading
   
-  4. Patterns
+  4. RecordsSystem
+  - Class heiarchy/inheritence
+  - Subtype polymorphism
+  - Custom Exception handling
+  - Abstract functions
+  - Pure virtual implementation
+  
+  5. Patterns
   - i/o parsing in data, string cleaning, stringstreams
   - Statistics
   - Pattern recognition
