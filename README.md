@@ -11,6 +11,7 @@ Program descriptions and key principles:
   - Game engine
   
  2. GrayScale - (Manipulate PGM files)
+  - Image convolution
   - i/o parsing in data, stringstreams
   - Image manipulation/transformations (convolve)
   - Polymorphism 
