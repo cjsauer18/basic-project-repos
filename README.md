@@ -39,5 +39,8 @@ Program descriptions and key principles:
   - Documenting similarity of input files
   
   
- 
+ 6. Solitaire
+ - Linked lists
+ - Stacks/Queues
+ - Polymorphism
 
