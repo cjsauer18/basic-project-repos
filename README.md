@@ -38,9 +38,13 @@ Program descriptions and key principles:
   - Pattern recognition
   - Documenting similarity of input files
   
-  
  6. Solitaire
  - Linked lists
  - Stacks/Queues
  - Polymorphism
 
+7. CIS-Land
+ - Implements a custom data structure to take an undirected graph as input and sort into an adjacency list.
+ - Structure needs to support dijkstra and prim implementations, along with amend capabilities based on user input.
+    
+ 
