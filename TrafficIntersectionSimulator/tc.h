@@ -37,7 +37,6 @@ sem_t W_exit;
 
 
 //four entering
-//i feel like this is redudnant if queue strucuture is implemnented 
 sem_t S_enter;
 sem_t N_enter;
 sem_t E_enter;
